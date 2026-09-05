@@ -1,4 +1,3 @@
-import 'package:device_preview/device_preview.dart';
 import 'package:esh7enly_app/core/router/app_router.dart';
 import 'package:esh7enly_app/core/theme/app_theme.dart';
 import 'package:esh7enly_app/firebase_options.dart';
